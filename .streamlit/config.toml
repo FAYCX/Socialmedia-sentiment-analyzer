@@ -1,9 +1,9 @@
 [theme]
 primaryColor = "#1f77b4"
+<<<<<<< HEAD
 
 backgroundColor = "#0e1117"
 secondaryBackgroundColor = "#31333f"
-secondaryBackgroundColor = "rgba(40, 40, 40, 0.7)"
 textColor = "#ffffff"
 
 
