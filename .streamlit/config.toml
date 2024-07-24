@@ -1,10 +1,10 @@
 [theme]
-primaryColor = "#1f77b4"
-<<<<<<< HEAD
+primaryColor = "#f63366"
 
-backgroundColor = "#0e1117"
-secondaryBackgroundColor = "#31333f"
-textColor = "#ffffff"
+backgroundColor = "#000000"
+# secondaryBackgroundColor = "#dab6db"
+secondaryBackgroundColor = "rgba(40, 40, 40, 0.7)"
+textColor = "#fafafa"
 
 
 [server]
